@@ -124,8 +124,3 @@ mockServerClient("localhost", 8080).mockAnyResponse({
 - [x] For http.Post requests and results create `Service`, don't do async requests in controllers,
 - [x] Comment your code,
 - [x] Use `Grunt`.
-
-Our full code rules and bestpractices (and propably be yours ;) [AngularJS Code Best Practices](https://github.com/geeksteam/CodeRules/tree/master/AngularJS)
-
-
-If any questions about task, join the chat at our Gitter [![https://gitter.im/geeksteam/AngularJSVacancy](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/geeksteam/AngularJSVacancy?utm_source=share-link&utm_medium=link&utm_campaign=share-link) or mailto _vacancy @ geeks.team_.
